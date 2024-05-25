@@ -1,6 +1,7 @@
 # ⚡ Using Web Component in React 19
 
-[![](./thumbnail.PNG)](https://www.youtube.com/watch?v=RzsVzQ1wbzA)
+[![](./[thumbnail.PNG](https://raw.githubusercontent.com/schalkventer/react-19-web-components/main/thumbnail.PNG))](https://www.youtube.com/watch?v=RzsVzQ1wbzA)
 
-- [JavaScript Example](#)
-- [TypeScript Example](#)
+- [JavaScript Example](https://github.com/schalkventer/react-19-web-components/tree/main/javascript)
+  
+- [TypeScript Example](https://github.com/schalkventer/react-19-web-components/tree/main/typescript)
